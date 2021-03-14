@@ -1,0 +1,2 @@
+# ACTIVATIONLCK
+Activate device 
